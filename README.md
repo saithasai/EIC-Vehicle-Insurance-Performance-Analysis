@@ -2,8 +2,9 @@
 
 ## Problem Statement
 
-**EIC**, once a leading motor insurance provider, faced consistent insurance losses between 2014 and 2018. Despite their vast customer base, the imbalance between **claims vs premiums** became unsustainable. This dashboard aims to explore their financial performance to identify key trends and patterns that led to their closure.
-  
+**EIC**, once a leading motor insurance provider, faced consistent insurance losses between 2014 and 2018. Despite their vast customer base, the imbalance between **claims vs premiums** became unsustainable. This dashboard aims to explore their financial performance to identify key trends and patterns that led to their closure.  
+[Dataset](https://data.mendeley.com/datasets/34nfrk36dt/1)  
+
 The analysis includes an interactive dashboard showing:
 - **Claims Trends**: Stacked area chart showing claim volumes by usage type over time
 - **Premium vs Claims Scatter Plot**: Visual representation of the relationship between premiums and claims
